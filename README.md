@@ -15,7 +15,7 @@ The dataset used for this analysis contains information about customers, includi
 
 To make this decision, we used a Linear Regression model. The dataset was divided into a training set (70%) and a test set (30%). The training data was used to train the model, while the test data was used to evaluate its performance.
 
-The accuracy of the model was assessed using the following metrics:
+The accuracy of the model:
 - Training Subset Accuracy: 98.2%
 - Test Subset Accuracy: 98.9%
 
